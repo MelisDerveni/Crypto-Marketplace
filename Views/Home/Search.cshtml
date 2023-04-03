@@ -1,0 +1,26 @@
+@model Crypto
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>    
+
+    <table>
+            <tr>
+                <th>Symbol</th>
+                <th>lastPrice</th>
+                <th>openPrice</th>
+                <th>Price Change Percent</th>
+            </tr>
+    @foreach (var item in ViewBag.CryptoList)
+    {
+            <tr>
+                <td>@item.symbol</td>
+                <td>@item.lastPrice</td>
+                <td>@item.openPrice</td>
+                <td>@item.priceChangePercent</td>
+            </tr>
+        
+    }
+    </table>
+</div>

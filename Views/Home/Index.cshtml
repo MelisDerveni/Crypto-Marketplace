@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Crypto
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>    
+    <form action="searchBySymbol" method="post">
+        <input type="text" placeholder="Search By Symbol" class="form-control my-3 p-2" name="symbol">
+        <input type="submit" value="Search" class="form-control my-3 p-2 btn1 mt-3 mb-5">
+
+    </form>
+
+    <table>
+            <tr>
+                <th>Symbol</th>
+                <th>lastPrice</th>
+                <th>openPrice</th>
+                <th>Price Change Percent</th>
+            </tr>
+    @foreach (var item in ViewBag.CryptoList)
+    {
+            <tr>
+                <td>@item.symbol</td>
+                <td>@item.lastPrice</td>
+                <td>@item.openPrice</td>
+                <td>@item.priceChangePercent</td>
+            </tr>
+        
+    }
+    </table>
+</div>

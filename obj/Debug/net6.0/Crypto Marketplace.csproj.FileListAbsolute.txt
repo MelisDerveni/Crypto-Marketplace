@@ -1,0 +1,39 @@
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Crypto Marketplace.staticwebassets.runtime.json
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Crypto Marketplace.exe
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Crypto Marketplace.deps.json
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Crypto Marketplace.runtimeconfig.json
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Crypto Marketplace.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Crypto Marketplace.pdb
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\mysql.data.entity.EF6.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Desktop\Crypto Marketplace\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.AssemblyInfo.cs
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\scopedcss\bundle\Crypto Marketplace.styles.css
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\scopedcss\projectbundle\Crypto Marketplace.bundle.scp.css
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.csproj.CopyComplete
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.dll
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\refint\Crypto Marketplace.dll
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.pdb
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\Crypto Marketplace.genruntimeconfig.cache
+C:\Users\User\Desktop\Crypto Marketplace\obj\Debug\net6.0\ref\Crypto Marketplace.dll
